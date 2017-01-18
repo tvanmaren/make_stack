@@ -4,7 +4,7 @@
 
 ### Methods
 
-`push`, `pop`, `peek`, `search`
+`push`, `pop`, `peek`, `search`, `empty`
 
 
 ## Stretch
